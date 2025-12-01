@@ -7,3 +7,5 @@ and a colorful digital mask using in the experiment.
 Older version of the code are in the folder (Previous MAPDH code)
 
 Other image masks are in the folder (Alternative digital masks)
+
+Code was based and adapted for the MAPDH system (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295923)
